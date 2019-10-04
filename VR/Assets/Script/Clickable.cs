@@ -6,7 +6,7 @@ public class Clickable : MonoBehaviour {
 
 	private Rigidbody rb;
     [SerializeField]
-    private float power = 100.0f;
+    private float power = 20.0f;
 	
 	// Use this for initialization
 	void Start () {
